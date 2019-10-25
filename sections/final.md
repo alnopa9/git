@@ -16,9 +16,9 @@ What should you now do with the branch you created in your fork? You have some o
 
 What about your master? It's now out of sync with the source. What to do about that?
 
-- You could merge your new branch into your own master, though that's not the idea way to keep your master in sync with the source repository.
+- You could merge your new branch into your own master, though that's not the ideal way to keep your master in sync with the source repository.
 - You could follow [these instructions](https://www.sitepoint.com/quick-tip-sync-your-fork-with-the-original-without-the-cli/) for syncing your master with the source's master using the GitHub web interface.
-- *You could take the plunge and learn to use Git from the command line*, which would make synchronize repositories and all your other tasks much easier. Yes, there's a learning curve involved, but it's worth it.
+- *You could take the plunge and learn to use Git from the command line*, which would make synchronizing repositories and all your other tasks much easier. Yes, there's a learning curve involved, but it's worth it.
 
 You'll find instructions on getting started with command-line Git in the [DHRI workshop from which we've forked this one](https://github.com/DHRI-Curriculum/git).
 
