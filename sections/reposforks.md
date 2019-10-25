@@ -24,6 +24,8 @@ To fork this repository, click the "Fork" button in the upper right corner of th
 
 ![To fork this repo, use the "Fork" button.](../images/forkrepo.png)
 
+Then, select your own account as the destination.
+
 ![For the repo to your own account](../images/forkwhere.png)
 
 [<< Previous](../README.md) | [Next >>](sandbox.md)

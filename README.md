@@ -12,22 +12,16 @@ This workshop will offer a high-level overview of Git and its related cloud-base
 
 To use the web interface you'll need to create an account on GitHub. If you want to participate in the hands-on portion of this workshop but you haven't yet created an account on GitHub, you should [do that now](https://github.com).
 
-[Get Started >>>](sections/concept.md)  
+[Get Started >>>](sections/reposforks.md)
 [Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/git.md#git)  
 
 -----
 
-[What are Git, GitHub and Markdown?](sections/concept.md)  
-[What You Can Do with Git and GitHub](sections/examples.md)  
-[Review of the Command Line](sections/commandline.md)  
-[Setting Up Git](sections/gitconfig.md)  
-[Creating a Syllabus with Markdown](sections/markdown.md)  
-[Staging and Committing Changes](sections/gitaction.md)  
-[Pushing to GitHub](sections/github.md)  
-[Cloning ](sections/cloning.md)  
-[Challenges](sections/challenge.md)  
-[Summary](sections/summary.md)  
-[Resources](sections/resources.md)  
+[Repos and Forks](sections/reposforks.md)  
+[Sandbox](sections/sandbox.md)  
+[Creating a File](sections/createfile.md) 
+[Summary](sections/summary.md)
+[Resources](sections/resources.md)
 
 -----
 
