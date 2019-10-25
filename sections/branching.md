@@ -8,7 +8,7 @@ However, another approach — and the one we'll take here — is to create a new
 
 Why do this? For one thing, working on a new branch enables you to keep *your* master in sync with the *source's* master. After all, your edits may not be accepted into the source project, and you may find it less confusing to keep your fork's master free of potentially confusing changes.
 
-So let's do this now. You should be looking at `https://github.com/youraccountname/nydh2019`. You can create a new branch by clicking on the "Branch" dropdown and typing in any name you want (as long as it doesn't have spaces non-alphanumeric characters in it). You might name it `patch-1` for example.
+So let's do this now. You should be looking at `https://github.com/youraccountname/nydh2019`. You can create a new branch by clicking on the "Branch" dropdown and typing in any name you want (as long as it doesn't have spaces or non-alphanumeric characters in it). You might name it `patch-1` for example.
 
 Make sure you're inside your own account and not the `milnelibrary` account! You don't have permission to create a branch in the source repository.
 
