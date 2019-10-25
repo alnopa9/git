@@ -1,4 +1,4 @@
-# Create and committing a file
+# Create and commit a file
 
 Now that you know what Markdown looks like, it's time to use some in a file that you'll create.
 
