@@ -4,7 +4,7 @@ Now that you know what Markdown looks like, it's time to use some in a file that
 
 First, navigate back up to `people` by clicking `people` in the path above the file contents. 
 
-![Navigate up one level](../images/navigate_up.md)
+![Navigate up one level](../images/navigate_up.png)
 
 Now create your own file by click the `Create new file` button.
 
