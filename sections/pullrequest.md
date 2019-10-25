@@ -12,7 +12,7 @@ Make sure you're on the branch you created, and click the `Pull request` button.
 
 ![Open a pull request](../images/pull-1.png)
 
-You should see something similar to the screen grab below. Notice that you've been taken to the source repository, `milnegeneseo/nydh2019`, because that's where you want your new file to go. You can also see that your asking to merge from your branch (in this case named `patch-1`) to `master` in the source repository.
+You should see something similar to the screen grab below. Notice that you've been taken to the source repository, `milnegeneseo/nydh2019`, because that's where you want your new file to go. You can also see that you're asking to merge from your branch (in this case named `patch-1`) to `master` in the source repository.
 
 ![You're requesting to merge from your branch to master](../images/pull-2.png)
 
