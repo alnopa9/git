@@ -6,7 +6,7 @@ The "Branch" button of your repository should now say `Branch: patch-1` (if that
 
 Nothing we do on our new branch will affect anything in `master`. That's the point of creating a new branch.
 
-Click the one the word `people` next to the folder icon to navigate into the `people` directory.
+Click on the word `people` next to the folder icon to navigate into the `people` directory.
 
 ![Navigate into the people directory](../images/people.png)
 
