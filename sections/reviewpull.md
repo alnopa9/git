@@ -8,5 +8,5 @@ From here, the owner can merge the submitted changes into the source repository'
 
 ![Reviewing changes](../images/review_changes.png)
 
-[<< Previous](pullrequest.md) | [Next >>](dhexamples.md)
+[<< Previous](pullrequest.md) | [Next >>](final.md)
 

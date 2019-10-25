@@ -38,4 +38,4 @@ Once you're happy with the file, it's time to *commit* it to your branch. Scroll
 
 ![Commit your file](../images/commit.png)
 
-[<< Previous](mrkdwn.md) | [Next >>](pullrequest_.md)
+[<< Previous](mrkdwn.md) | [Next >>](pullrequest.md)

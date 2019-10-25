@@ -12,16 +12,21 @@ This workshop will offer a high-level overview of Git and its related cloud-base
 
 To use the web interface you'll need to create an account on GitHub. If you want to participate in the hands-on portion of this workshop but you haven't yet created an account on GitHub, you should [do that now](https://github.com).
 
-[Get Started >>>](sections/reposforks.md)
-[Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/git.md#git)  
+[Get Started >>>](sections/reposforks.md) 
+[Glossary >>>](glossary.md)  
+[Cheat Sheet](git-cheat-sheet.pdf) 
 
 -----
 
 [Repos and Forks](sections/reposforks.md)  
 [Sandbox](sections/sandbox.md)  
+[Branching](sections/branching.md)
 [Creating a File](sections/createfile.md) 
-[Summary](sections/summary.md)
-[Resources](sections/resources.md)
+[Markdown](sections/mrkdwn.png) 
+[Initiating a Pull Request](sections/pullrequest.md) 
+[Reviewing a Pull Request](sections/reviewpull.md)
+[Summary](sections/final.md) 
+[DH Examples](sections/dhexamples.md)
 
 -----
 

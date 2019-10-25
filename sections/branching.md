@@ -22,4 +22,4 @@ Then name and create the branch.
 
 Very soon, we'll create a new file on the branch you've just created. But first, we need to understand something about how project files are written.
 
-[<< Previous](/sandbox.md) | [Next >>](mrkdwn.md)
+[<< Previous](sandbox.md) | [Next >>](mrkdwn.md)

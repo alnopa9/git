@@ -24,4 +24,4 @@ You'll find instructions on getting started with command-line Git in the [DHRI w
 
 Let's wrap up by looking at some examples of how people are using Git and GitHub for DH projects.
 
-[<< Previous](final.md) | [Next >>](dhexamples.md)
+[<< Previous](reviewpull.md) | [Next >>](dhexamples.md)
