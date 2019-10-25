@@ -18,7 +18,7 @@ The file has some nice formatting: a header in **bold** font, some bullet points
 
 Click the "Raw" button toward the upper right of the file, and your browser should show you something like this.
 
-![Raw text](../images/markdown.md)
+![Raw text](../images/markdown.png)
 
 What you're looking at is a lightweight markup language called *markdown*. When you format your text using markdown, GitHub understands markdown's symbols for things like bullets and italics and automatically transforms them into html, the basic formatting language of the web.
 
