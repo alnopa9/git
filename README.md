@@ -1,10 +1,16 @@
-# Introduction to Git and GitHub
+# Git and GitHub for Project Management
 
-Git is version control software used to track the state of files associated with a project. Users can take snapshots of files, travel through the history of a project, collaborate transparently with others, and easily keep compatible data in many locations. Combined with GitHub, a cloud service, Git also becomes a way of finding and publishing text, including writing and code.
+**Git** is is a software application for *distributed version control*. When you use Git to manage the files in a project, you're essentially taking snapshots of those files as you make changes to them. Doing this enables you to track back through the history of your changes, understand that history, and return to an earlier state of the project whenever necessary.
 
-In this session, we'll learn what makes Git such a powerful tool for both collaborative and individual projects. We will share a conceptual overview of Git and GitHub, explore fundamental concepts such as committing and pushing, and explore practical applications of GitHub for writing and coding. This session will show how to use Git and GitHub for a variety of digital undertakings, including collaborating with others, finding code for use in your projects, and sharing your work publicly. This session covers initializing Git repositories, committing changes, pushing to GitHub, and cloning repositories to your local machine.
+The *distributed* aspect of Git distinguishes it from many other version control systems. Git permits multiple users to maintain copies of a project on their own machines, work on the project files offline, then push their changes to a shared file repository in a way that avoids conflicts between different users' changes.
 
-To complete this workshop, you will need to have VS Code and Git installed on your local machine. If you have not installed them already, follow [this link to instructions for VS Code](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md), and [this link to instructions for Git](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md).
+Finally, Git makes it easy to make someone else's project the starting point for your own. This workshop was *forked* from <https://github.com/DHRI-Curriculum>, a workshop created by folks at the CUNY Graduate Center's [GC Digital Initiatives](https://gcdi.commons.gc.cuny.edu/about/), where [Matthew K. Gold](https://github.com/mkgold) and [Lisa Marie Rhody](https://github.com/lmrhody) currently form the [leadership team](https://gcdi.commons.gc.cuny.edu/people/).
+
+All these features of Git make it an attractive way to collaborate transparently on projects large and small.
+
+This workshop will offer a high-level overview of Git and its related cloud-based service **GitHub**, emphasizing a few of the ways it can be useful to DH projects. Although Git's most powerful features are available only when it's used via the [command line](), we'll do our work today from Git's web interface, which works well for basic tasks and requires no previous set-up.
+
+However, using GitHub's web interface does require an account. If you want to participate in the hands-on portion of this workshop but you haven't yet created an account on GitHub, you should do that now.
 
 [Get Started >>>](sections/concept.md)  
 [Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/git.md#git)  
@@ -25,7 +31,7 @@ To complete this workshop, you will need to have VS Code and Git installed on yo
 
 -----
 
-Session Leader: Patrick Sweeney  
+Session Leader: Paul Schacht  
 Based on previous work by Patrick Sweeney, Jojo Karlin, Jennifer Tang, Stephen Zweibel, and Mary Catherine McKinniburgh  
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
