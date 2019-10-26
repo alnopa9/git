@@ -29,9 +29,12 @@ Here's a glossary for the basic Git and Github terms that you'll need for this w
 
 **branch**: Git allows you to create new branches, or versions, off the master branch. These are particularly useful for larger code projects and development, since they allow you to work on and keep track of multiple discrete sections that can be merged back into the master branch.
 
+**markdown**: Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. It's incredibly useful in other contexts, too.
+
 _If there's anything missing, remember that you can fork this repo, add what you'd like to see, and send a pull request!_
 ___
 Sources and further reading: 
 - [http://git-scm.com/book/en/v2/](http://git-scm.com/book/en/v2/)
 - [http://help.github.com/articles/](http://help.github.com/articles/)
 - [http://help.github.com/articles/github-glossary/](http://help.github.com/articles/github-glossary/)
+- [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
