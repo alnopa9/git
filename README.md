@@ -8,6 +8,16 @@ Finally, Git makes it easy to make someone else's project the starting point for
 
 All these features of Git make it an attractive way to collaborate transparently on projects large and small.
 
+Some common uses for Git include:
+
+- developing software
+- sharing data sets
+- creating websites
+- writing articles and books
+- collating online resources
+- keeping research notes
+- hosting syllabi and course materials
+
 This workshop will offer a high-level overview of Git and its related cloud-based service **GitHub**, emphasizing a few of the ways they can be useful to DH projects. Although Git's most powerful features are available only when it's used via the [command line](https://en.wikipedia.org/wiki/Command-line_interface), we'll do our work today from Git's web interface, an easier place to start.
 
 To use the web interface you'll need to create an account on GitHub. If you want to participate in the hands-on portion of this workshop but you haven't yet created an account on GitHub, you should [do that now](https://github.com).
